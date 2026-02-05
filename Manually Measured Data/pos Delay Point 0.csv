@@ -1,0 +1,12 @@
+PW 49.988; pos. Setpoint 93.628; pos. Delay 1.958; pos. PW 29.952; Ipk 0.76 -- UNITS Angstrom *10
+Ti 120W data low duty dataset; -1 is no pos. pulse, pos. supply turned off, -2 is 40 us delay, 100 V setpoint
+
+pos. Delay (us)	1	2	3
+1.5	280	563	840
+10	288	574	866
+20	288	573	864
+30	288	572	862
+1.5	278	560	832
+40	290	576	868
+80	289	573	860
+-1	284	565	850
